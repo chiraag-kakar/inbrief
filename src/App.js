@@ -26,8 +26,8 @@ import axios from 'axios';
 
 
 class App extends Component {
-  API_KEY = '91d819b69e6d4c43953cefa5815517eb';
-  API_URL = `https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=${this.API_KEY}`
+  // API_KEY = '91d819b69e6d4c43953cefa5815517eb';
+  API_URL = `http://newsapi.org/v2/top-headlines?country=in&apiKey=91d819b69e6d4c43953cefa5815517eb`
 
   state = {
     items: []
