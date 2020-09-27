@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f804bab4545a0ffce35a245af2a42867",
+    "revision": "c0516e09e1bf419a64f31e89431dcf36",
     "url": "/inbrief/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/inbrief/static/css/4.e9b04e07.chunk.css"
   },
   {
-    "revision": "ba242881b5570fce6dba",
+    "revision": "584237af8d8788cbec00",
     "url": "/inbrief/static/css/main.523f09c5.chunk.css"
   },
   {
@@ -252,8 +252,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/inbrief/static/js/9.0ab1036e.chunk.js"
   },
   {
-    "revision": "ba242881b5570fce6dba",
-    "url": "/inbrief/static/js/main.2175e857.chunk.js"
+    "revision": "584237af8d8788cbec00",
+    "url": "/inbrief/static/js/main.dab37b93.chunk.js"
   },
   {
     "revision": "dc6cef29aa32b670452a",

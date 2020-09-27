@@ -3,8 +3,8 @@
     "static/js/0.83579669.chunk.js": "/inbrief/static/js/0.83579669.chunk.js",
     "static/js/0.83579669.chunk.js.map": "/inbrief/static/js/0.83579669.chunk.js.map",
     "main.css": "/inbrief/static/css/main.523f09c5.chunk.css",
-    "main.js": "/inbrief/static/js/main.2175e857.chunk.js",
-    "main.js.map": "/inbrief/static/js/main.2175e857.chunk.js.map",
+    "main.js": "/inbrief/static/js/main.dab37b93.chunk.js",
+    "main.js.map": "/inbrief/static/js/main.dab37b93.chunk.js.map",
     "polyfills-css-shim.js": "/inbrief/static/js/polyfills-css-shim.49c9290b.chunk.js",
     "polyfills-css-shim.js.map": "/inbrief/static/js/polyfills-css-shim.49c9290b.chunk.js.map",
     "runtime-main.js": "/inbrief/static/js/runtime-main.fbff25a6.js",
@@ -121,7 +121,7 @@
     "static/js/58.f6bfb0a8.chunk.js": "/inbrief/static/js/58.f6bfb0a8.chunk.js",
     "static/js/58.f6bfb0a8.chunk.js.map": "/inbrief/static/js/58.f6bfb0a8.chunk.js.map",
     "index.html": "/inbrief/index.html",
-    "precache-manifest.2da5b01c105fb468f24038e76b6d5e77.js": "/inbrief/precache-manifest.2da5b01c105fb468f24038e76b6d5e77.js",
+    "precache-manifest.23ff17ae2b1730d5ac90662ddbf758eb.js": "/inbrief/precache-manifest.23ff17ae2b1730d5ac90662ddbf758eb.js",
     "service-worker.js": "/inbrief/service-worker.js",
     "static/css/4.e9b04e07.chunk.css.map": "/inbrief/static/css/4.e9b04e07.chunk.css.map",
     "static/css/main.523f09c5.chunk.css.map": "/inbrief/static/css/main.523f09c5.chunk.css.map",
@@ -135,6 +135,6 @@
     "static/css/4.e9b04e07.chunk.css",
     "static/js/4.e7c01cb4.chunk.js",
     "static/css/main.523f09c5.chunk.css",
-    "static/js/main.2175e857.chunk.js"
+    "static/js/main.dab37b93.chunk.js"
   ]
 }
