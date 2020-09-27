@@ -27,7 +27,7 @@ import axios from 'axios';
 
 class App extends Component {
   // API_KEY = '91d819b69e6d4c43953cefa5815517eb';
-  API_URL = `https://newsapi.org/v2/top-headlines?country=in&apiKey=91d819b69e6d4c43953cefa5815517eb`
+  API_URL = `https://cors-anywhere.herokuapp.com/https://newsapi.org/v2/top-headlines?country=in&apiKey=91d819b69e6d4c43953cefa5815517eb`
 
   state = {
     items: []
@@ -45,12 +45,13 @@ class App extends Component {
       <IonApp>
       <IonHeader>
         <IonToolbar color="primary">
-          <IonTitle>The Brief</IonTitle>
+          <center><IonTitle>Top Headlines served using News API</IonTitle></center>
         </IonToolbar>
       </IonHeader>
+      
       <IonContent>
       {this.state.items.map((item) => (
-                <IonCard>
+                <center><IonCard>
                   
                   <img src={item.urlToImage}/>
                 <IonCardHeader>
@@ -68,11 +69,12 @@ class App extends Component {
                   <p>{item.content}</p>
                   <IonButton href={item.url}>Read More</IonButton>
                 </IonCardContent>
-                </IonCard>
+                </IonCard></center>
 
       ))}
 
       </IonContent>
+      
     </IonApp>
 
     );
